@@ -1,2 +1,2 @@
 #!/bin/bash
-gCC -C $CFILEi main.o 
+gCC -C $CFILEi main.c 
